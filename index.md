@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the main page of GANN
 
-You can use the [editor on GitHub](https://github.com/gnekt/GANN/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project is built for the exam of Machine Learning at University of Siena  
 
 ### Markdown
 
