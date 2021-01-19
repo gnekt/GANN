@@ -1,13 +1,16 @@
-## Welcome to the main page of GANN
+## Welcome to the main page of GANN (Generalized Artificial Neural Network)
 
 This project is built for the exam of Machine Learning at University of Siena  
 
-### Goal
+# Goal
 
-The goal of this repo is firstly to realize the assignment proposed by our professor Marco Gori, secondly after some coding i realize that instead of using normal Run-Degub Script, i realize a simple library to abstract a Neural Network (it's an accademic way) to optimize the time that i spent in front of a monitor (now is quite a lot work/university).
+The goal of this repo is firstly to realize the assignment that our professor Marco Gori proposed to us, secondly after some coding i realize that instead of using normal Run-Degub Script, i could realize a simple library to abstract a Neural Network (it's an accademic way) to optimize the time that i spent in front of a monitor (now is quite a lot work/university).
 
-So i use the same NN abstraction to complete the tasks that our professors give us.
+So i use the same NN abstraction to complete the tasks that our professor give us.
 
+## Assignment
+
+The assignments are 
 ```markdown
 Syntax highlighted code block
 
