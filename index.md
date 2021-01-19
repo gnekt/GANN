@@ -2,9 +2,11 @@
 
 This project is built for the exam of Machine Learning at University of Siena  
 
-### Markdown
+### Goal
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The goal of this repo is firstly to realize the assignment proposed by our professor Marco Gori, secondly after some coding i realize that instead of using normal Run-Degub Script, i realize a simple library to abstract a Neural Network (it's an accademic way) to optimize the time that i spent in front of a monitor (now is quite a lot work/university).
+
+So i use the same NN abstraction to complete the tasks that our professors give us.
 
 ```markdown
 Syntax highlighted code block
