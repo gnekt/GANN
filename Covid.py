@@ -14,10 +14,10 @@ if __name__ == "__main__":
     Train = Train / Train.max()
 
     # Define a NN
-    nn: NeuralNetwork = NeuralNetwork(NeuralNetworkScope.Regression,4, 2, 10, 1)
+    nn: NeuralNetwork = NeuralNetwork(NeuralNetworkScope.Regression,4, 1, 10, 1)
 
     # Train the NN
-    nn.train_network_as_Regression(Train.to_numpy(), 0.05, 1000)
+    nn.train_network_as_Regression(Train.to_numpy(), 1, 100) #without bias
 
     # Test the NN
     X_prevision = Train.loc[:, "ricoverati_con_sintomi":"dimessi_guariti"]
